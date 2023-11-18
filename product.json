@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Modern Sofa",
+        "price": "$899.99",
+        "image": "../../images/image10.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 2,
+        "name": "Oak Dining Table",
+        "price": "$399.99",
+        "image": "../../images/table1.jpg",
+        "description": "A sleek dining table with a glass top",
+        "styles": "modern"
+    },
+    {
+        "id": 3,
+        "name": "Glass Coffee Table",
+        "price": "$149.99",
+        "image": "../../images/table2.jpg",
+        "description": "A sleek dining table with a glass top",
+        "styles": "modern"
+    },
+    {
+        "id": 4,
+        "name": "Leather Armchair",
+        "price": "$699.99",
+        "image": "../../images/chair3.jpg",
+        "description": "A luxurious and stylish chair upholstered with genuine leather.",
+        "styles": "modern"
+    },
+    {
+        "id": 5,
+        "name": "Wooden Desk",
+        "price": "$499.99",
+        "image": "../../images/chair1.jpg",
+        "description": "A sturdy and elegant desk made from high-quality wood.",
+        "styles": "modern"
+    },
+    {
+        "id": 6,
+        "name": "Metal Table",
+        "price": "$299.99",
+        "image": "../../images/table3.jpg",
+        "description": "A sleek dining table with a glass top",
+        "styles": "modern"
+    },
+    {
+        "id": 7,
+        "name": "Leather Armchair",
+        "price": "$199.99",
+        "image": "../../images/chair2.jpg",
+        "description": "A luxurious and stylish chair upholstered with genuine leather.",
+        "styles": "modern"
+    },
+    {
+        "id": 8,
+        "name": "Modern Sofa",
+        "price": "$1299.99",
+        "image": "../../images/image11.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 9,
+        "name": "Modern Sofa",
+        "price": "$799.99",
+        "image": "../../images/image9.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 10,
+        "name": "wooden Table",
+        "price": "$449.99",
+        "image": "../../images/table4.jpg",
+        "description": "A sturdy and versatile table made from high-quality wood.",
+        "styles": "modern"
+    },
+    {
+        "id": 11,
+        "name": "Tv Stand",
+        "price": "$199.99",
+        "image": "../../images/table5.jpg",
+        "description": "A sturdy and versatile table made from high-quality wood.",
+        "styles": "modern"
+    },
+    {
+        "id": 12,
+        "name": "metal Armchair",
+        "price": "$599.99",
+        "image": "../../images/image1.jpg",
+        "description": "A sturdy and durable chair made from metal.",
+        "styles": "modern"
+    },
+    {
+        "id": 13,
+        "name": "metal Armchair",
+        "price": "$399.99",
+        "image": "https://i.pinimg.com/550x/d1/52/00/d15200d0296917242f1386b02a079b4f.jpg",
+        "description": "A sturdy and durable chair made from metal.",
+        "styles": "modern"
+    },
+    {
+        "id": 14,
+        "name": "Modern Sofa",
+        "price": "$249.99",
+        "image": "https://i.pinimg.com/564x/6c/e5/f6/6ce5f62353904ade57a64defe8e58c75.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 15,
+        "name": "Modern Sofa",
+        "price": "$149.99",
+        "image": "../../images/image3.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 16,
+        "name": "wooden Bed",
+        "price": "$1199.99",
+        "image": "https://static.dezeen.com/uploads/2017/06/mural-wallpaper-pinterest-trends-dezeen-hero-852x628.jpg",
+        "description": "A sturdy and elegant bed frame made from high-quality wood.",
+        "styles": "modern"
+    },
+    {
+        "id": 17,
+        "name": "comfortable Sofa",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/originals/66/46/7c/66467ccd6946fe2fe370740aa7bb52dc.jpg",
+        "description": "A comfortable sofa with elegant design",
+        "styles": "modern"
+    },
+    {
+        "id": 18,
+        "name": "Modern Leather Sofa",
+        "description": "A sleek and contemporary sofa upholstered in genuine leather. This modern leather sofa features clean lines, a minimalist design, and plush cushioning for both comfort and style. It is the perfect addition to any modern living room or office space.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/06/7d/f3/067df304641fa052b72548e0469c9d4d.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 19,
+        "name": "Mirrored Glass",
+        "description": "Mirrored glass is a type of glass that has a reflective coating on one side, allowing light to pass through from one side while reflecting light back on the other side.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/1200x/1e/45/79/1e45799abe017b885e1a69ea619f6063.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 20,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "../../images/image8.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 21,
+        "name": "Classic Chesterfield Sofa",
+        "description": "A timeless and elegant Chesterfield sofa with tufted upholstery and rolled arms. This classic sofa exudes sophistication and charm, making it a focal point in any traditional or vintage-inspired living room. The deep button tufting and luxurious fabric create a sense of luxury and refinement.",
+        "price": "$999.99",
+        "image": "../../images/image9.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 22,
+        "name": "Convertible Sleeper Sofa",
+        "description": "A versatile and practical sofa that can be easily converted into a comfortable sleeper. This convertible sleeper sofa is perfect for small spaces or for accommodating overnight guests. It features a sturdy frame, plush cushions, and a user-friendly mechanism for seamless transformation.",
+        "price": "$999.99",
+        "image": "../../images/image10.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 23,
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish and retro-inspired sofa with a mid-century modern design. This sofa showcases clean lines, tapered legs, and a minimalist aesthetic that is both timeless and on-trend. The high-quality upholstery and ergonomic design ensure both comfort and durability.",
+        "price": "$999.99",
+        "image": "../../images/image11.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 24,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/58/dc/62/58dc62902a4cd65b2a939f1fde6b7e60.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 25,
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish and retro-inspired sofa with a mid-century modern design. This sofa showcases clean lines, tapered legs, and a minimalist aesthetic that is both timeless and on-trend. The high-quality upholstery and ergonomic design ensure both comfort and durability.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/25/cb/e6/25cbe6180e9259b86de59a9e599cbf44.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 26,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/564x/86/26/87/862687f210edae1d77c92ddd0a905bbb.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 27,
+        "name": "Convertible Sleeper Sofa",
+        "description": "A versatile and practical sofa that can be easily converted into a comfortable sleeper. This convertible sleeper sofa is perfect for small spaces or for accommodating overnight guests. It features a sturdy frame, plush cushions, and a user-friendly mechanism for seamless transformation.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/1200x/84/e1/7d/84e17dd76c43e66ad45c7f115e1d99c0.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 28,
+        "name": "wooden chair",
+        "price": "$999.99",
+        "image": "../../images/image16.jpg",
+        "description": "A wooden chair is a type of furniture designed for one person to sit on, providing support for their back. It can come in various styles, such as traditional, contemporary, Scandinavian, American vintage, or industrial. Wooden chairs can have armrests or be armless, and they are typically constructed using wood types like bentwood, maple, oak, cedar, or pine. They are known for their durability and can be used in various settings, including dining rooms, kitchens, or outdoor patios.",
+        "styles": "modern"
+    },
+    {
+        "id": 29,
+        "name": "Convertible Sleeper Sofa",
+        "description": "A versatile and practical sofa that can be easily converted into a comfortable sleeper. This convertible sleeper sofa is perfect for small spaces or for accommodating overnight guests. It features a sturdy frame, plush cushions, and a user-friendly mechanism for seamless transformation.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/3a/e6/af/3ae6af659885416217b81587fe7c420b.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 30,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "../../images/image11.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 31,
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish and retro-inspired sofa with a mid-century modern design. This sofa showcases clean lines, tapered legs, and a minimalist aesthetic that is both timeless and on-trend. The high-quality upholstery and ergonomic design ensure both comfort and durability.",
+        "price": "$999.99",
+        "image": "../../images/image10.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 32,
+        "name": "Classic Chesterfield Sofa",
+        "description": "A timeless and elegant Chesterfield sofa with tufted upholstery and rolled arms. This classic sofa exudes sophistication and charm, making it a focal point in any traditional or vintage-inspired living room. The deep button tufting and luxurious fabric create a sense of luxury and refinement.",
+        "price": "$999.99",
+        "image": "../../images/image9.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 33,
+        "name": "Classic Chesterfield Sofa",
+        "description": "A timeless and elegant Chesterfield sofa with tufted upholstery and rolled arms. This classic sofa exudes sophistication and charm, making it a focal point in any traditional or vintage-inspired living room. The deep button tufting and luxurious fabric create a sense of luxury and refinement.",
+        "price": "$999.99",
+        "image": "../../images/image8.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 34,
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish and retro-inspired sofa with a mid-century modern design. This sofa showcases clean lines, tapered legs, and a minimalist aesthetic that is both timeless and on-trend. The high-quality upholstery and ergonomic design ensure both comfort and durability.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/19/d9/ef/19d9ef1b51cb4b3591ecf4bd1f2ac98b.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 35,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/originals/09/34/2e/09342e8ff2b7229867b478572eae4ca5.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 36,
+        "name": "Convertible Sleeper Sofa",
+        "description": "A versatile and practical sofa that can be easily converted into a comfortable sleeper. This convertible sleeper sofa is perfect for small spaces or for accommodating overnight guests. It features a sturdy frame, plush cushions, and a user-friendly mechanism for seamless transformation.",
+        "price": "$999.99",
+        "image": "../../images/image11.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 37,
+        "name": "Classic Chesterfield Sofa",
+        "description": "A timeless and elegant Chesterfield sofa with tufted upholstery and rolled arms. This classic sofa exudes sophistication and charm, making it a focal point in any traditional or vintage-inspired living room. The deep button tufting and luxurious fabric create a sense of luxury and refinement.",
+        "price": "$999.99",
+        "image": "../../images/image10.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 38,
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish and retro-inspired sofa with a mid-century modern design. This sofa showcases clean lines, tapered legs, and a minimalist aesthetic that is both timeless and on-trend. The high-quality upholstery and ergonomic design ensure both comfort and durability.",
+        "price": "$999.99",
+        "image": "../../images/image9.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 39,
+        "name": "Sectional Sofa",
+        "description": "A spacious and versatile sectional sofa with a chaise lounge. This sectional sofa offers ample seating space for family and guests, and the chaise provides a comfortable spot to stretch out and relax. With its modular design, it can be arranged in various configurations to fit different room layouts.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/08/30/d6/0830d6884aaa97212dec65ea67d0cee6.jpg",
+        "styles": "modern"
+    },
+    {
+        "id": 40,
+        "name": "Convertible Sleeper Sofa",
+        "description": "A versatile and practical sofa that can be easily converted into a comfortable sleeper. This convertible sleeper sofa is perfect for small spaces or for accommodating overnight guests. It features a sturdy frame, plush cushions, and a user-friendly mechanism for seamless transformation.",
+        "price": "$999.99",
+        "image": "https://i.pinimg.com/736x/c5/72/4b/c5724b6cb1163106dbb099a4bfa478da.jpg",
+        "styles": "modern"
+    }
+]
